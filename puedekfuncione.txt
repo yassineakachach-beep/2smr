@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Cambio en develop
+=======
+Cambio en feature
+>>>>>>> feature/dashboard
